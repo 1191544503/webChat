@@ -1,0 +1,19 @@
+.main{
+    border-right: black thin solid;
+    border-top: black thin solid;
+    border-left: black thin solid;
+    border-bottom: black thin solid;
+    height: 450px;
+    width: 500px;
+}
+.fc{
+    font-weight: bold;
+    font-size: 16pt;
+    text-align: center;
+}
+.fl{
+    font-weight: bold;
+    font-size: 16pt;
+    text-align: left;
+
+}
